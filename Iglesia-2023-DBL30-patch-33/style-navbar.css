@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.container-fluid {
+    padding: 10px 0px;
+    box-sizing: border-box;
+}
+
+.navbar-brand {
+    padding: 3px 13px;
+    font-family: cursive;
+    font-family: 1.6rem;
+    box-sizing: border-box;
+}
